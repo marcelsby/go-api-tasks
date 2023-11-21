@@ -1,0 +1,8 @@
+[api]
+port = "9000"
+
+[database]
+host = "localhost"
+user = "user_tasks"
+password = "1122"
+name = "api_tasks"
